@@ -1,6 +1,5 @@
 # Hi there, I'm Saad Saeed 👋
 
-Welcome to my GitHub profile!
 
 ## About Me
 
