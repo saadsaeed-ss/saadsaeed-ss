@@ -9,15 +9,15 @@ I'm a passionate coder with a love for learning and creating innovative solution
 - 🔭 I’m currently working on React Project.
 - 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate on MERN Projects.
-- 💬 Ask me about MERN
-- 📫 How to reach me: Saad07.ss58@gmail.com
+- 💬 Ask me about Anything.
+- 📫 How to reach me: Saad07.ss58@gmail.com | +92307-2770906
 
 ## My Skills
 
-- **Languages:** [list of programming languages you know]
-- **Frameworks and Libraries:** [list of frameworks and libraries you use]
-- **Tools and Technologies:** [list of tools and technologies you're proficient with]
-- **Other Skills:** [any other relevant skills]
+- **Languages:** HTML | CSS | JS | C++ | PYTHON
+- **Frameworks and Libraries:**  REACT | EXPRESS |  NODE
+- **Tools and Technologies:** VS CODE | FIGMA | ADBOE XD | WORDPRESS
+- **Other Skills:** Football
 
 ## My Projects
 
@@ -37,8 +37,4 @@ Here are some of my favorite projects:
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you want to collaborate or just have a chat about coding.
 
 ---
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
