@@ -19,7 +19,7 @@ Here are some of my favorite projects:
 
 ## Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/saad-saeed-49b1ab158/))
+- [LinkedIn](https://www.linkedin.com/in/saad-saeed-49b1ab158/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you want to collaborate or just have a chat about coding.
 
