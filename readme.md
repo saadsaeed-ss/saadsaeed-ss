@@ -2,7 +2,7 @@
 
 
 ## Connect with me:
-- 📫 Saad07.ss58@gmail.com | +92307-2770906
+- 📫 Mrsaadsaeed07@gmail.com | +92307-2770906
 
 ## My Skills
 
