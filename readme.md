@@ -7,7 +7,7 @@
 ## My Skills
 
 - **Languages:** HTML | CSS | JS 
-- **Frameworks and Libraries:**  React JS | Express JS |  Node JS
+- **Frameworks and Libraries:**  React JS | Next JS | Express JS |  Node JS
 - **Tools and Technologies:** VS Code | Figma | Adobe XD | Wordpress
 - **Hobbies:** Football | Foosball
 
